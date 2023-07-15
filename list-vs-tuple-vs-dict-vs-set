@@ -1,0 +1,32 @@
+List, Tupe, Dictionary and Set all are 4 data types used to store collections of data.
+The most easy way to remember the difference between all of them, is just to remember the pattern:
+
+One or all of them can inherit only below Properties:
+  *Ordered -> it means that the items have a defined order, and that order will not change. {try yourself by assigning value to a List and set and then try printing them using print()}
+  *Changeable -> meaning that we can change, add, and remove items in a list after it has been created.
+  *Allow Duplicate value 
+********************************************************************************
+Overview
+--------
+  list 	->	Ordered,   	Changable      	& Allow Duplicate items
+  tuple	->	Ordered,   	not changable   & Allow Duplicate items
+  dict	->	Ordered,   	Changable      	& not allow Duplicate items 
+  set 	->	Unordered,      not changable  	& not allow Duplicate items
+
+~Which one are Ordered
+  list 	->	Ordered, 	Changable	& Allow Duplicate items
+  tuple	->	Ordered, 	not changable   & Allow Duplicate items
+  dict	->	Ordered, 	changable	& not allow Duplicate items 
+  set 	->	Unordered, 	not changable	& not allow Duplicate items
+
+~Which one are Changable
+  list 	->	Changable
+  tuple	->	not changable
+  dict	->	Changable
+  set 	->	not changable
+
+~Which one are Changable
+  list 	->	Allow Duplicate items
+  tuple	->	Allow Duplicate items
+  dict	->	not allow Duplicate items 
+  set 	->	not allow Duplicate items
