@@ -1,6 +1,10 @@
 # python_concept
 Clear your Pyhton Fundament or basic doubts
 
+# Content Update
+1. Added "Let's learn about Dictionary in Python | Practical"  [08-Feb-2024]
+2. Update "List vs Tuple vs Dictionary vs Set"   [08-Feb-2024]
+
 # List vs Tuple vs Dictionary vs Set
 list       	->	Ordered,   	Changable	      & Allow Duplicate items
 
