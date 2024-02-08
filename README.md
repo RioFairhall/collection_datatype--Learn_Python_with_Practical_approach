@@ -1,5 +1,5 @@
 # python_concept
-Clear your Pyhton Fundament or basic doubts
+Clear your Pyhton Fundamentals or basic doubts
 
 # Content Update
 1. Added "Let's learn about Dictionary in Python | Practical"  [08-Feb-2024]
