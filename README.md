@@ -7,6 +7,8 @@ list       	->	Ordered,   	Changable	      & Allow Duplicate items
 tuple	      ->	Ordered,    not changable   & Allow Duplicate items
 
 dictionary	->	Ordered, 	  changable	      & Not allow Duplicate items 
-note: dictionaries are ordered means -> they retains insertion order from Python 3.7 onwards.
-prior to Python3.7 they are unordered 
+
 set 	      ->	Unordered, 	not changable	  & Not allow Duplicate items
+
+# Note
+note: dictionary retains insertion order from Python 3.7 onwards only but, prior to Python3.7 they are unordered 
